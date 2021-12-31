@@ -1,0 +1,6 @@
+{
+    "componentChunkName": "component---src-pages-admin-js",
+    "path": "/admin/",
+    "result": {"pageContext":{"matchPath":"/admin/*"}},
+    "staticQueryHashes": [],
+    "matchPath": "/admin/*"}
